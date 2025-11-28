@@ -1,6 +1,10 @@
+---
 layout: page
-title: Education
-----------------
+tpermalink: /education.html
+---
+
+#Education
+
 **Clemson University | 2023 - 2026 (Expected)**
 Ph.D. in Forest Resources 
 Advisor: Dr. Geoff Wang

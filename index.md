@@ -3,12 +3,12 @@ layout: default
 title: Home
 ---
 
-[Home](/)
-[About](/about.html)
-[Education](/education.html)
-[Podcast](/podcast.html)
-[Research](/research.html)
-[Storymap](/storymap.html)
+[Home](/) • 
+[About](/about) • 
+[Education](/education) • 
+[Podcast](/podcast) • 
+[Research](/research) • 
+[StoryMap](/storymap)
 
 ---
 

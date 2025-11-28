@@ -1,6 +1,7 @@
 ---
 layout: page
-tpermalink: /education.html
+title: Education
+permalink: /education.html
 ---
 
 #Education

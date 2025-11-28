@@ -3,6 +3,14 @@ layout: default
 title: Podcast
 ---
 
+[Home](/) • 
+[About](/about) • 
+[Education](/education) • 
+[Podcast](/podcast) • 
+[Research](/research) • 
+[StoryMap](/storymap)
+
+---
 **Podcast - Nature with NixE**
 
 ## Episode 1

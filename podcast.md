@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Podcast
-permalink: /podcast.html
 ---
 
 **Podcast - Nature with NixE**

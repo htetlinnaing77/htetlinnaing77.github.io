@@ -13,7 +13,7 @@ title: Htet Lin Naing
 # Welcome
 
 <p style="text-align:center;">
-  <img src="/assets/images/15B5B0FC-EED4-4A0E-8906-3D77F53D3F98.jpeg" alt="Htet Lin Naing" style="width:200px; border-radius:10px;">
+  <img src="/assets/images/DFDA68B3-1578-4BEA-9ED2-190B797B1FE7_1_105_c.jpeg" alt="Landscape" style="width:200px; border-radius:10px;">
 </p>
 
 This is the homepage of my personal website.  

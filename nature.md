@@ -1,8 +1,10 @@
+---
 layout: page
-title: Nature with NixE
-permalink: /nauture/
+title: Podcast
+permalink: /podcast.html
+---
 
-#**Nature with NixE**
+**Podcast - Nature with NixE**
 
 ## Episode 1
 🎧 **Listen on Spotify:**  

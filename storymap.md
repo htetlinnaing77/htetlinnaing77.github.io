@@ -3,6 +3,16 @@ layout: page
 title: StoryMap
 permalink: /storymap.html
 ---
+<nav>
+  <a href="/">Home</a> |
+  <a href="/about.html">About</a> |
+  <a href="/education.html">Education</a> |
+  <a href="/podcast.html">Podcast</a> |
+  <a href="/research.html">Research</a> |
+  <a href="/storymap.html">StoryMap</a>
+</nav>
+
+<hr>
 
 # ArcGIS StoryMap Project 
 

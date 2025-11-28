@@ -15,9 +15,8 @@ title: Htet Lin Naing
 <p style="text-align:center;">
   <img src="/assets/images/DFDA68B3-1578-4BEA-9ED2-190B797B1FE7_1_105_c.jpeg" 
        alt="Landscape" 
-       style="width:100%; max-width:900px; border-radius:10px;">
+       style="width:70%; max-width:600px; border-radius:10px;">
 </p>
-
 
 
 This is the homepage of my personal website.  

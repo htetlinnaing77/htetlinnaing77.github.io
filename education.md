@@ -7,7 +7,7 @@ permalink: /education.html
 **Education**
 
 
-**Clemson University | 2023 - 2026 (Expected)**
+Clemson University | 2023 - 2026 (Expected)
 
 - Ph.D. in Forest Resources 
 

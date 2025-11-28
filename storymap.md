@@ -1,6 +1,7 @@
+---
 layout: page
 title: StoryMap
-permalink: /storymap/
+permalink: /storymap.html
 ---
 
 # ArcGIS StoryMap Project 

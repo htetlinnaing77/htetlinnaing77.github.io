@@ -1,3 +1,9 @@
+---
+layout: page
+title: Research
+permalink: /research.html
+---
+
 **Theses & Dissertation**
 
 Naing, H. L., "Modeling the effect of neighborhood competition on tree diameter growth in the Pacific Northwest Coast Range" (2023). Theses and Dissertations. 5870. https://scholarsjunction.msstate.edu/td/5870

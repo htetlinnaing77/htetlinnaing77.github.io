@@ -1,2 +1,19 @@
 theme: jekyll-theme-architect
+title: "Htet Lin Naing"
+description: "Personal Website"
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about.html"
+  - title: "Education"
+    url: "/education.html"
+  - title: "Podcast"
+    url: "/nature.html"
+  - title: "Research"
+    url: "/research.html"
+  - title: "Storymap"
+    url: "/storymap.html"
+
 

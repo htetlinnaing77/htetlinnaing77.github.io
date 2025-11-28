@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Education
-permalink: /education.html
 ---
 
 # Education

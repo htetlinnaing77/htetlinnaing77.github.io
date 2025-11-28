@@ -1,7 +1,6 @@
 ---
 layout: default
 title: StoryMap
-permalink: /storymap.html
 ---
 
 # ArcGIS StoryMap Project 

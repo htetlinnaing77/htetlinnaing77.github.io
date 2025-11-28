@@ -3,6 +3,14 @@ layout: default
 title: StoryMap
 ---
 
+[Home](/) • 
+[About](/about) • 
+[Education](/education) • 
+[Podcast](/podcast) • 
+[Research](/research) • 
+[StoryMap](/storymap)
+
+---
 # ArcGIS StoryMap Project 
 
 🗺️ **View my StoryMap project:**  

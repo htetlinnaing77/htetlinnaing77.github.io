@@ -4,7 +4,7 @@ title: Education
 permalink: /education.html
 ---
 
-**Education**
+# Education
 
 
 Clemson University | 2023 - 2026 (Expected)

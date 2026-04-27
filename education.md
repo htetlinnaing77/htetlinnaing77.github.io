@@ -17,7 +17,7 @@ title: Education
 
 - Ph.D. in Forest Resources 
 
-- Advisor: Dr. Geoff Wang
+- Co-advisors: Drs. Geoff Wang & Puskar Khanal
 
 - Major: Silviculture and Forest Ecology
 

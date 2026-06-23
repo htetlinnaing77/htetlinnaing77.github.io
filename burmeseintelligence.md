@@ -19,7 +19,7 @@ title: Burmese Intelligence
 
 ---
 
-Burmese Intelligence is a passion project that I develop during weekends as a way of giving back to my roots in Myanmar. 
+Burmese Intelligence is a passion project that I develop during weekends as a way of giving back to my roots in Myanmar (formerly known as Burma). 
 The platform is an AI-powered plant identification tool designed to make botanical knowledge more accessible to Myanmar communities, students, researchers, and nature enthusiasts. 
 Built using the iNaturalist API, the system can identify more than 5,000 plant species and provides users with an easy way to learn about the rich plant diversity of Myanmar. 
 Officially launched on June 18, 2026, the project reflects my commitment to using technology to support environmental education, biodiversity awareness, and public access to scientific knowledge. 

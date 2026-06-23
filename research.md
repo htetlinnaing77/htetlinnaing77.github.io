@@ -3,12 +3,13 @@ layout: default
 title: Research
 ---
 
-[Home](/) • 
-[About](/about) • 
-[Education](/education) • 
-[Podcast](/podcast) • 
-[Research](/research) • 
-[StoryMap](/storymap)
+[Home](/) •
+[About](/about) •
+[Education](/education) •
+[Podcast](/podcast) •
+[Research](/research) •
+[Storymap](/storymap) •
+[Burmese Intelligence](/burmeseintelligence)
 
 ---
 **Theses & Dissertation**
@@ -37,7 +38,7 @@ Naing, H. L., & Wang, G. G. (2024, May 20). Offsetting forest carbon stock flux 
 
 Naing, H. L., Himes, A., Renninger, H., & Poudel, K. (2023a, March 23). Calculating Neighborhood Competition of Trees in Pacific Northwest Coast Range by Using the Dendrochronological Data [Poster Presentation]. 84th Annual Meeting of Association of Southeastern Biologists (ASB), Winston-Salem, North Carolina, USA. https://www.sebiologists.org/asb-2023.html 
 
-Naing, H. L., Himes, A., Renninger, H., & Poudel, K. (2023b, July 25). Modeling the effect of neighborhood competition on tree diameter growth in the Pacific Northwest Coast Range [Poster Presentation]. Summer Science & Engineering Symposium | 2023, Bost Conference, Mississippi State University, Starkville Campus. https://mascad.org
+Naing, H. L., Himes, A., Renninger, H., & Poudel, K. (2023b, July 25). Modeling the effect of neighborhood competition on tree diameter growth in the Pacific Northwest Coast Range [Poster Presentation]. Summer Science & Engineering Symposium | 2023, Bost Conference, Mississippi State University, Starkville Campus. 
 
 Naing, H. L., & Wang, G. G. (2023c, December 8). Pathway to mitigate greenhouse emission and sequester carbon under climate-smart forestry in South Carolina, U.S. [Poster Presentation]. Speaker Series in Ecology and Natural Resources Fall 2023, Department of Forestry and Environmental Conservation.
 

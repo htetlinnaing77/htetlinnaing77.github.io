@@ -3,14 +3,16 @@ layout: default
 title: Education
 ---
 
-[Home](/) • 
-[About](/about) • 
-[Education](/education) • 
-[Podcast](/podcast) • 
-[Research](/research) • 
-[StoryMap](/storymap)
+[Home](/) •
+[About](/about) •
+[Education](/education) •
+[Podcast](/podcast) •
+[Research](/research) •
+[Storymap](/storymap) •
+[Burmese Intelligence](/burmeseintelligence)
 
 ---
+
 # Education
 
 **Clemson University 2023 - 2026 (Expected)**

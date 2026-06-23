@@ -3,12 +3,13 @@ layout: default
 title: Podcast
 ---
 
-[Home](/) • 
-[About](/about) • 
-[Education](/education) • 
-[Podcast](/podcast) • 
-[Research](/research) • 
-[StoryMap](/storymap)
+[Home](/) •
+[About](/about) •
+[Education](/education) •
+[Podcast](/podcast) •
+[Research](/research) •
+[Storymap](/storymap) •
+[Burmese Intelligence](/burmeseintelligence)
 
 ---
 **Podcast - Nature with NixE**
